@@ -1,7 +1,10 @@
 # WOL (Wake On Lan)
 
-SHA256 Hash of signed Binary: 156E61E49B440905F56719796D8A49C2542472A2429C2476147539AFEA0C1379
-`Get-FileHash -Path j2iwol.exe`
+
+Check file hashes from PowerShell with `Get-FileHash -Path j2iwol.exe`
+
+* j2iwol.exe - `B4DDEE42C6C294AFB1E93CC120BB934F232DED74E309514CA44654006074F4AB`
+* j2iwol.net.exe - `6D4AB076AD895F4D815289E4514D610E4A123D1C2CC3081066E62074C7319830`
 
 I've created this program because at times, a computer has been turned off or has gone to sleep 
 and has needed to be stated while no one was available to physically activate the computer. Windows
