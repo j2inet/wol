@@ -27,4 +27,4 @@ address (yet).
 More information on this application can be found on https://j2i.net/apps/wol
 
 
-[1]:assets\wol.png
+[1]:assets/wol.png
