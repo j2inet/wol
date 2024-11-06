@@ -3,8 +3,13 @@
 
 Check file hashes from PowerShell with `Get-FileHash -Path j2iwol.exe`
 
+For the signed executables:
 * j2iwol.exe - `B4DDEE42C6C294AFB1E93CC120BB934F232DED74E309514CA44654006074F4AB`
 * j2iwol.net.exe - `6D4AB076AD895F4D815289E4514D610E4A123D1C2CC3081066E62074C7319830`
+For the unsigned executables:
+* j2iwol.exe - `39CD1563B470FDC4CBF911B4CFDF4F54D9EE2F85919C6566C1F00FD226290D91`
+* j2iwol.net.exe - `6B850FB5208F4B63BBE367CE9107E913CC5E237CA93146CD98F7AC040EB3A6E2`
+
 
 I've created this program because at times, a computer has been turned off or has gone to sleep 
 and has needed to be stated while no one was available to physically activate the computer. Windows
