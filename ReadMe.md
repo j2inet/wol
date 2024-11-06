@@ -3,6 +3,8 @@
 
 Check file hashes from PowerShell with `Get-FileHash -Path j2iwol.exe`
 
+![Wake On Lan Logo][1]
+
 For the signed executables:
 * j2iwol.exe - `B4DDEE42C6C294AFB1E93CC120BB934F232DED74E309514CA44654006074F4AB`
 * j2iwol.net.exe - `6D4AB076AD895F4D815289E4514D610E4A123D1C2CC3081066E62074C7319830`
@@ -23,3 +25,6 @@ it. The message is sent via broadcast since a computer that is turned off might 
 address (yet).
 
 More information on this application can be found on https://j2i.net/apps/wol
+
+
+[1]:assets\wol.png
